@@ -1,7 +1,10 @@
 # Source
 [Link](https://github.com/tesa-klebeband/RTL8720dn-Deauther)
+
+
+This project belongs to @warwick 320 ---https://github.com/warwick320/Nova-X-5G-Deauther[Link](https://github.com/warwick320/Nova-X-5G-Deauther) 
+  
 ## DISCLAIMER
-[Link](https://github.com/warwick320/Nova-X-5G-Deauther)
 This tool has been made for **educational** and **testing** purposes only. Any misuse or illegal activities conducted with the tool are strictly prohibited.  
 I am **not** responsible for any consequences arising from the use of this tool, which is done at your own risk.
 
