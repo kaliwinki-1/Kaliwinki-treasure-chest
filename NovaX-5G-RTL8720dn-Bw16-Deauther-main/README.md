@@ -1,10 +1,12 @@
- Downloaded and republished by Kaliwinki
+Downloaded and republished by Kaliwinki
+This project belongs to @warwick 320 ---https://github.com/warwick320/Nova-X-5G-Deauther[Link](https://github.com/warwick320/Nova-X-5G-Deauther) 
+
 
 # Source
 [Link](https://github.com/tesa-klebeband/RTL8720dn-Deauther)
 
 
-This project belongs to @warwick 320 ---https://github.com/warwick320/Nova-X-5G-Deauther[Link](https://github.com/warwick320/Nova-X-5G-Deauther) 
+
   
 ## DISCLAIMER
 This tool has been made for **educational** and **testing** purposes only. Any misuse or illegal activities conducted with the tool are strictly prohibited.  
